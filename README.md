@@ -1,1 +1,1 @@
-This app makes use of d3 transitions and force directed graphs
+This app makes use of d3 transitions, tooltips and force directed graphs
